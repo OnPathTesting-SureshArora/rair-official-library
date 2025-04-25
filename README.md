@@ -36,7 +36,7 @@ sudo TEMPLATE=dev-dapp docker-compose -f docker-compose-templates.yml up -d
 Step -6 : Launch the Application by pointing Browser to http://localhost:8088
 
 > :Buttons
-> > :Button label=Deploy to Netlify, url=https://app.netlify.com/start/deploy?repository=https://github.com/OnPathTesting-SureshArora/rair-official-library&base=rair-simple-dapp
+> > :Button label="Deploy to Netlify", url="https://app.netlify.com/start/deploy?repository=https://github.com/OnPathTesting-SureshArora/rair-official-library&base=rair-simple-dapp"
 
 
 # frontend examples
