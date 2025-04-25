@@ -35,6 +35,7 @@ sudo TEMPLATE=dev-dapp docker-compose -f docker-compose-templates.yml up -d
 
 Step -6 : Launch the Application by pointing Browser to http://localhost:8088
 
+<button type="button">Deploy to Netlify!</button>
 
 # frontend examples
 
