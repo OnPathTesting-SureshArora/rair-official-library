@@ -11,11 +11,11 @@ export default defineConfig({
     proxy: {
       // with options: http://localhost:5173/api/bar-> http://jsonplaceholder.typicode.com/api/bar
       '/api': {
-        target: 'http://localhost:5000',
+        target: 'http://34.171.253.61:5000',
         changeOrigin: true
       },
       '/ms': {
-        target: 'http://localhost:5002',
+        target: 'http://34.171.253.61:5002',
         changeOrigin: true
       }
     }
